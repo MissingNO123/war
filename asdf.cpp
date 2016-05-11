@@ -1,3 +1,5 @@
+//this was to test the method to generate an array of cards
+
 #include <string>
 #include <iostream>
 
