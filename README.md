@@ -1,2 +1,2 @@
 # war
-shitty war clone
+Small project to recreate the card game War in C++
